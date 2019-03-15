@@ -1339,7 +1339,7 @@ class ExplorerWrapper extends React.PureComponent<Props, {}> {
   render() {
     const { width, explorerIsOpen, onToggleExplorer } = this.props;
     const customStyles = {}
-    if (width) {
+    if (width && explorerIsOpen) {
       customStyles.width = width;
     }
     return (
