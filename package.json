@@ -1,6 +1,6 @@
 {
   "name": "graphiql-explorer-hasura",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "homepage": "https://github.com/hasura/graphiql-explorer/tree/hasura-fork",
   "bugs": {
     "url": "https://github.com/hasura/graphiql-explorer/issues"
